@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345087588437",
+    "firebase_url": "https://website-7a5a3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "website-7a5a3",
+    "storage_bucket": "website-7a5a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345087588437:android:d236926303e1a16b283cdc",
+        "android_client_info": {
+          "package_name": "com.example.messmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345087588437-ik3vc6n0h4iidoeeg75gbk8sn9ecss8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messmeter",
+            "certificate_hash": "699253b593f61c82798642fc300ec1508a0f657d"
+          }
+        },
+        {
+          "client_id": "345087588437-fpls6lrt4019dteadr8nok7t83qlcmtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkjb9UfKLoQhBCiXoGfZvegISnDQvSHH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345087588437-fpls6lrt4019dteadr8nok7t83qlcmtt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345087588437-c0808qbo2p6cpdg5es99ntmdfaqkn98l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messmeter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
